@@ -14,3 +14,5 @@ The video series on Youtube at https://www.youtube.com/playlist?list=PL-7krswAOs
 5) Go to Github and refresh the page to insure that the README and your project code have been correctly uploaded
 
 You can then continue with following the videos to create the application.
+
+TAN VO
